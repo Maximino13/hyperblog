@@ -6,6 +6,7 @@ Un blog increíble de el curso de Git y Github de Platzi
 * NO solo me gusta observar la vida sino apreciarla 🍃
 * Soy una persona con instinto de emprender cualquier idea es buena 🕶
 * Mas de mí muy pronto🦇...
+*Creado por el increíble Maxter Team
 
 
 >Sobre la repo 🎞
