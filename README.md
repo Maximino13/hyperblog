@@ -7,7 +7,7 @@ Un blog increíble de el curso de Git y Github de Platzi
 * Soy una persona con instinto de emprender cualquier idea es buena 🕶
 * Mas de mí muy pronto🦇...
 *Creado por el increíble Maxter Team
-
+*Incluye ejemplos en Windows💻
 
 >Sobre la repo 🎞
 * Cualquiera puede forkear 🪒
