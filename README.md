@@ -8,6 +8,7 @@ Un blog increíble de el curso de Git y Github de Platzi
 * Mas de mí muy pronto🦇...
 *Creado por el increíble Maxter Team
 *Incluye ejemplos en Windows💻
+*Proyecto incluyente
 
 >Sobre la repo 🎞
 * Cualquiera puede forkear 🪒
